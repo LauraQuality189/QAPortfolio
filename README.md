@@ -6,37 +6,20 @@ I am a QA Engineer with 2.5+ years of professional experience in software testin
 
 This portfolio showcases my approach to software quality through practical projects covering manual testing, test automation, API testing, mobile testing, performance testing, and CI/CD.
 
-## About Me
+## Portfolio Projects
+→ 01 E-commerce Manual QA
+→ 02 Web Test Automation
+→ 03 API Testing
+→ 04 Mobile Testing
+→ 05 Performance Testing
+→ 06 GitLab CI/CD
 
-I am a detail-oriented QA Engineer passionate about delivering reliable and high-quality software.
-
-My experience includes:
-
-Functional and non-functional testing
-Web and mobile application testing
-Test case design and execution
-Regression, smoke, integration, and acceptance testing
-API testing
-Test automation
-Performance testing
-Defect identification, reporting, and tracking
-Test documentation and reporting
-Agile/Scrum environments
-Technical support and incident resolution
-
-I focus not only on finding defects, but also on understanding how software should behave, identifying potential risks, and improving the overall quality of the product.
+## Technical Skills
+Testing | Automation | API | Performance | CI/CD
 
 ## Certification
+ISTQB Foundation Level
+ISTQB Test Automation Engineer (CTAL-TAE) - EN PROCESO
 
-- ISTQB Certified Tester – Foundation Level (CTFL)
-
-The certification has strengthened my knowledge of:
-
-Software Testing Fundamentals
-Test Levels and Test Types
-Test Design Techniques
-Defect Management
-Test Planning and Monitoring
-Risk-Based Testing
-Test Tools and Automation
-Agile Testing
+## Contact
+LinkedIn: https://www.linkedin.com/in/laura-valentina-vásquez-mogollón-6385151a7 | Email: Lauravasquez189.0@gmail.com
