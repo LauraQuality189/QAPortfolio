@@ -18,8 +18,8 @@ This portfolio showcases my approach to software quality through practical proje
 Testing | Automation | API | Performance | CI/CD
 
 ## Certification
-ISTQB Foundation Level
-ISTQB Test Automation Engineer (CTAL-TAE) - EN PROCESO
+- ISTQB Foundation Level
+- ISTQB Test Automation Engineer (CTAL-TAE) - IN PROGRESS
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/laura-valentina-vásquez-mogollón-6385151a7 | Email: Lauravasquez189.0@gmail.com
