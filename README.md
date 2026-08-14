@@ -7,12 +7,12 @@ I am a QA Engineer with 2.5+ years of professional experience in software testin
 This portfolio showcases my approach to software quality through practical projects covering manual testing, test automation, API testing, mobile testing, performance testing, and CI/CD.
 
 ## Portfolio Projects
-→ 01 E-commerce Manual QA
-→ 02 Web Test Automation
-→ 03 API Testing
-→ 04 Mobile Testing
-→ 05 Performance Testing
-→ 06 GitLab CI/CD
+- 01 E-commerce Manual QA
+- 02 Web Test Automation
+- 03 API Testing
+- 04 Mobile Testing
+- 05 Performance Testing
+- 06 GitLab CI/CD
 
 ## Technical Skills
 Testing | Automation | API | Performance | CI/CD
